@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "reviews": "^0.1.0"
+  }
+}

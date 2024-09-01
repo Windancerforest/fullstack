@@ -38,7 +38,7 @@
     height: 43px;
     border-radius: 11px;
     display: flex;
-    alight-items: center;
+    text-align: center;
   }
   
   input {
